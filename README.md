@@ -105,5 +105,9 @@ This repo includes only sniping part due to the security problem. However, you c
 
 If you have any questions or want more customized app for specific use cases, please feel free to contact me to below contacts.
 
-- E-Mail: adamglab0731.pl@gmail.com
-- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
+- E-Mail: riddle.cara@gmail.com
+- Telegram: [@riddle0x0](https://t.me/riddle0x0)
+
+
+# Site URL
+https://solana-trading-bot-fe-production.up.railway.app/sniper
