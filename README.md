@@ -105,7 +105,7 @@ This repo includes only sniping part due to the security problem. However, you c
 
 If you have any questions or want more customized app for specific use cases, please feel free to contact me to below contacts.
 
-- E-Mail: riddle.cara@gmail.com
+- E-Mail: riddle.cara46@gmail.com
 - Telegram: [@riddle0x0](https://t.me/riddle0x0)
 
 
